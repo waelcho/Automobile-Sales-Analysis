@@ -21,5 +21,7 @@ By examining various factors mentioned above from the dataset, we aim to gain in
 This Project will be completed in 3 Parts:
 
 Part 1: Create Visualizations using Matplotlib, Seaborn & Folium
+
 Part 2: Create Dashboard using Plotly and Dash
+
 Part 3: Submit your project and evaluate your peers
